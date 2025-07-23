@@ -58,7 +58,3 @@ Data sourced from a retail chain simulation dataset for analytical purposes.
 This project is part of my personal portfolio to showcase data analysis and business intelligence skills.
 
 ---
-
-## 📬 Contact
-
-If you have any questions or feedback, feel free to reach out via [GitHub](https://github.com/<your-username>) or email.
